@@ -16,7 +16,7 @@ Atualmente, estou em transição de carreira, buscando oportunidades como **esta
 
 ## 📌 Projetos em destaque
 
-- * [Simulação de Batalha com POO](https://github.com/fmoreira10/simulacao-batalha-poo) – Jogo simples em Python com orientação a objetos 
+- [Simulação de Batalha com POO](https://github.com/fmoreira10/jogo.py) – Um jogo simples de adivinhar números entre 1 e 100, usando Python puro.
 - [Formas aleatórias com Pygame](https://github.com/fmoreira10/Formas-Pygame) – Experimentos com gráficos e cores usando Pygame  
 - (adicione mais conforme for criando ou destacando outros projetos)
 
