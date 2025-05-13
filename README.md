@@ -43,8 +43,9 @@ Atualmente, estou em transição de carreira, buscando oportunidades como **esta
 ## 🌐 Onde me encontrar
 
 - 🔗 [GitHub](https://github.com/fmoreira10)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fernandoalvarengamoreira/) *(verifique se está correto)*
-- ✉️ Email: (adicione se quiser)
+- 🔗 [LinkedIn](www.linkedin.com/in/fernando-timoreira
+
+- ✉️ Email: fernandinhoalvarenga@gmail.com
 
 ---
 
